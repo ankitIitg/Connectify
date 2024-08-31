@@ -1,0 +1,64 @@
+
+body{
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.formContainer{
+   border:9px solid rgb(105,105,105);
+    color:rgb(105,105,105);
+    position:absolute;
+    top:12%;
+    left:7%;
+    padding-bottom: 15px;
+    
+    padding: 20px;
+    padding-top: 1px;
+
+}
+.formContainer h1{
+
+    font-size:40px;
+   
+    margin:10px;
+    padding:1px 0 ;
+
+}
+.box{
+    width: 100%;
+    padding-bottom: 15px;
+    
+    padding-top: 5px;
+}
+
+.btn{
+    cursor:pointer;
+    outline:none;
+
+    width: 25%;
+    margin: 4px 15px;
+    padding: 6px;
+    padding-top: 5px;
+    border-radius: 10px;
+    border:2px solid;
+    
+
+}
+.box i{
+
+
+
+
+
+margin: 4px 45px;
+
+border:none;
+outline:none;
+color:white;
+}
+
+
+
+
+
+
+
